@@ -23,7 +23,7 @@ const effects = {
 const style = {
 	theme: 'dark', // dark | light
 	brand: 'pink', // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
-	accent: 'blue', // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
+	accent: 'pink', // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
 	neutral: 'slate', // sand | gray | slate
 	border: 'conservative', // rounded | playful | conservative
 	solid: 'contrast', // color | contrast
