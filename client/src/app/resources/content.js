@@ -1,8 +1,8 @@
 import { InlineCode } from "@/once-ui/components";
 
 const person = {
-    firstName: 'Pritam',
-    lastName:  'Kundu',
+    firstName: 'Srija',
+    lastName:  'Adhya',
     get name() {
         return `${this.firstName} ${this.lastName}`;
     },
@@ -19,28 +19,28 @@ const newsletter = {
 }
 
 const social = [
-    // Links are automatically displayed.
-    // Import new icons in /once-ui/icons.ts
-    {
-        name: 'GitHub',
-        icon: 'github',
-        link: 'https://github.com/once-ui-system/nextjs-starter',
-    },
-    {
-        name: 'LinkedIn',
-        icon: 'linkedin',
-        link: 'https://www.linkedin.com/company/once-ui/',
-    },
-    {
-        name: 'X',
-        icon: 'x',
-        link: '',
-    },
-    {
-        name: 'Email',
-        icon: 'email',
-        link: 'mailto:example@gmail.com',
-    },
+	// Links are automatically displayed.
+	// Import new icons in /once-ui/icons.ts
+	{
+		name: 'GitHub',
+		icon: 'github',
+		link: 'https://github.com/SrijaAdhya12'
+	},
+	{
+		name: 'LinkedIn',
+		icon: 'linkedin',
+		link: 'https://www.linkedin.com/in/srija-adhya/'
+	},
+	{
+		name: 'X',
+		icon: 'x',
+		link: 'https://x.com/Srija2903'
+	},
+	{
+		name: 'Email',
+		icon: 'email',
+		link: 'mailto:srijaadhya.11sc.2020@gmail.com'
+	}
 ]
 
 const home = {

@@ -1,4 +1,4 @@
-const baseURL = 'pritam-kd.vercel.app'
+const baseURL = 'https://srija-adhya.vercel.app/'
 
 const routes = {
 	'/': true,
